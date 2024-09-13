@@ -1,3 +1,4 @@
-akademiadotnet.pl 
-kurs Zostań Programistą .NET
-Tydzień 4 - LEKCJA 11 - Praca Domowa
+akademiadotnet.pl <br />
+kurs Zostań Programistą .NET <br />
+Tydzień 4 - LEKCJA 11 - Praca Domowa <br />
+Program sprawdza, czy podana liczba jest parzysta czy nieparzysta
