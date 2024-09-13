@@ -41,7 +41,9 @@ namespace Parzysta_nieparzysta
             var input = Console.ReadLine();
             if (!int.TryParse(input, out var number))
             {
-                throw new Exception("Podana wartość nie jest liczbą");
+                Console.WriteLine("Podana wartość nie jest liczbą");
+                Console.WriteLine("Podaj liczbę: ");
+                return CheckIfInt();
             }
             return number;
         }
